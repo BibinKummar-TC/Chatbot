@@ -12,4 +12,3 @@ __all__ = [
     "mask_api_key",
     "sanitize_error_message",
 ]
-
